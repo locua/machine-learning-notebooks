@@ -1,0 +1,13 @@
+* Supervised Learning
+Scalar : a single number
+Vector : n dimension ordered array of scalars
+Matrix : m x n dimension array
+
+k-nearest Neighbour classification (k-NN)
+
+Confusion matrix
+   with pos and neg class - learn confusion matrix
+
+Recall v Precision 
+
+
