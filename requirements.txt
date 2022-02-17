@@ -4,3 +4,15 @@ scipy
 numpy
 matplotlib
 sklearn
+pandas 
+scikit-learn 
+tensorflow 
+keras 
+xgboost 
+matplotlib 
+seaborn 
+plotly 
+graphviz 
+pydotplus 
+bokeh
+
