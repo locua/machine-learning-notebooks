@@ -5,14 +5,13 @@ numpy
 matplotlib
 sklearn
 pandas 
+pandas
 scikit-learn 
 tensorflow 
 keras 
 xgboost 
-matplotlib 
 seaborn 
 plotly 
 graphviz 
 pydotplus 
 bokeh
-
